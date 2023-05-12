@@ -1,0 +1,25 @@
+
+.hero{
+    z-index: 1;
+    object-fit: cover;
+}
+li{
+    z-index: 2;
+    display:flex;
+    color: azure;
+    justify-content:flex-end;
+    /* position: absolute; */
+    left: 90%;
+}
+ul>a{
+
+
+text-decoration: none;
+
+}
+
+a:hover {
+    color:#87898b; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
